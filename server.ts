@@ -2,6 +2,7 @@
  * Copyright (c) 2014-2024 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
+//Comment2
 import dataErasure from './routes/dataErasure'
 import fs = require('fs')
 import { type Request, type Response, type NextFunction } from 'express'
